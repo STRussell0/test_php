@@ -1,7 +1,35 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    overflow-x: hidden;
+}
+
 .navbar1 {
     background-color: #E28C8C;
 }
 
 .footer1 {
     background-color: #6FAE9F;
+}
+
+.nav-button {
+    background-color: #6E4C7D;
+}
+
+.spacer_meh {
+    flex-basis: 10%;
+}
+
+.fa {
+    text-decoration: none;
+    color: black;
+}
+
+#footer_menu {
+    list-style: none;
+    list-style-type: none;
+}
+
+.blog_text {
+    font-size: 18px;
 }
