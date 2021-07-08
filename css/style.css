@@ -1,7 +1,11 @@
 * {
-    /* margin: 0;
-    padding: 0; */
-    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: fit-content;
+
 }
 
 .navbar1 {
@@ -32,4 +36,8 @@
 
 .blog_text {
     font-size: 18px;
+}
+
+#ammend {
+    font-size: calc(1rem + 1.25vw);
 }
