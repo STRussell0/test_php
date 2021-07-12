@@ -3,11 +3,6 @@
     padding: 0;
 }
 
-body {
-    max-width: fit-content;
-
-}
-
 .navbar1 {
     background-color: #E28C8C;
 }
@@ -40,4 +35,13 @@ body {
 
 #ammend {
     font-size: calc(1rem + 1.25vw);
+}
+
+.btn-dark:hover {
+    background-color: rgba(255, 255, 255, 0.377);
+}
+
+.border-card {
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px rgb(54, 53, 61);
 }
