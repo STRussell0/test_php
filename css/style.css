@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+body {
+    background-color: #6E4C7D;
+
+}
+
 .navbar1 {
     background-color: #E28C8C;
 }
